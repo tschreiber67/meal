@@ -1,0 +1,33 @@
+CURRENT ARCHITECTURE
+
+Runtime: Node.js standard library plus browser JavaScript.
+Dependencies: none. Build step: none.
+
+The Node server only serves an explicit list of local files. It does not
+receive, store or analyze a user's meal plan. Its address is 127.0.0.1.
+
+The browser loads the bundled food catalog, recipes and example plan. It
+imports src/catalog.mjs and src/planner.mjs directly. Add/remove/edit actions
+run in the browser and rebuild the grocery list. Plans are stored in that
+browser's localStorage; export/import uses local JSON files.
+
+The CLI loads the same catalogs from disk and runs the same planner functions.
+It sends results to stdout. Errors go to stderr with a nonzero exit status.
+Both interfaces produce the same grocery quantities from the same plan.
+
+Recipe ingredient grams describe the WHOLE recipe yield. An entry's servings
+are portions of that yield. A two-serving recipe with 100 g oats needs 50 g
+for an entry serving one person. Repeated ingredients merge by food id.
+No raw-to-cooked conversion, density conversion or package rounding occurs.
+
+src/catalog.mjs validates fields required by the current grocery behavior.
+It does not yet validate or calculate nutrition. The next nutrition module
+should remain importable by both Node and the browser, without Node-only APIs.
+File reads, CLI formatting and HTTP serving stay outside that module.
+
+Current grocery quantities round once, at output, to three decimal places.
+Display ordering is stable for the bundled ASCII identifiers. The calendar
+uses explicit YYYY-MM-DD dates, with no dependency on the current date/time.
+
+The app has no accounts, server-side user data, remote calls or credentials.
+No other application's source code or data is needed.

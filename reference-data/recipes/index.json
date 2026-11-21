@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Chic' Penne",
+    "file": "recipes/chic-penne.txt",
+    "sourcePdf": {
+      "text": "Chic' Penne",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/ChicPenneCACFPhomerecipe.pdf",
+      "name": "ChicPenneCACFPhomerecipe.pdf",
+      "bytes": 1114577,
+      "sha256": "fc3ae8aa56f46cd429df59d86434049e025aafcdaac079eb3b24ae1bd251c9ed",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 11,
+    "ingredientCount": 11,
+    "directionStepCount": 8,
+    "yieldAsPublished": "Makes six 1 1/2-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Mediterranean Quinoa Salad",
+    "file": "recipes/mediterranean-quinoa-salad.txt",
+    "sourcePdf": {
+      "text": "Mediterranean Quinoa Salad",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/MediterraneanQuinoaSaladCACFPhomerecipe.pdf",
+      "name": "MediterraneanQuinoaSaladCACFPhomerecipe.pdf",
+      "bytes": 1251153,
+      "sha256": "f538c4fe53bed05882ae9ac3fc94ae6e93d6973ee73a1a56327bac7665df83a3",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 13,
+    "ingredientCount": 15,
+    "directionStepCount": 4,
+    "yieldAsPublished": "Makes six 3/4-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Oodles of Noodles",
+    "file": "recipes/oodles-of-noodles.txt",
+    "sourcePdf": {
+      "text": "Oodles of Noodles",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/OodlesofNoodlesCACFPhomerecipe.pdf",
+      "name": "OodlesofNoodlesCACFPhomerecipe.pdf",
+      "bytes": 1122438,
+      "sha256": "8977c98e30cac4fe3f1fe1e3ae3d4f7ec6cfd19ec64ec427d8166c9bc39506ad",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 23,
+    "ingredientCount": 10,
+    "directionStepCount": 4,
+    "yieldAsPublished": "Makes six 1-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Rainbow Rice",
+    "file": "recipes/rainbow-rice.txt",
+    "sourcePdf": {
+      "text": "Rainbow Rice",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/RainbowRiceCACFPhomerecipe.pdf",
+      "name": "RainbowRiceCACFPhomerecipe.pdf",
+      "bytes": 1454463,
+      "sha256": "0c2cc90f43c1ea9f77e89cf78386418cdcc4825acb5a919ee9205f8ed21dd2f6",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 27,
+    "ingredientCount": 12,
+    "directionStepCount": 6,
+    "yieldAsPublished": "Makes six 1-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Sweet Potato and Black Bean Stew",
+    "file": "recipes/sweet-potato-black-bean-stew.txt",
+    "sourcePdf": {
+      "text": "Sweet Potato and Black Bean Stew",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/SweetPotatoandBlackBeanStewCACFPhomerecipe.pdf",
+      "name": "SweetPotatoandBlackBeanStewCACFPhomerecipe.pdf",
+      "bytes": 935673,
+      "sha256": "806e2eb826f829779e006c7947fa9e3dd3670e87c9a02927cdea1db8ad5ccd0b",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 57,
+    "ingredientCount": 12,
+    "directionStepCount": 6,
+    "yieldAsPublished": "Makes six 1-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Lentils of the Southwest",
+    "file": "recipes/lentils-of-the-southwest.txt",
+    "sourcePdf": {
+      "text": "Lentils of the Southwest",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/LentilsoftheSouthwest%20CACFPhomerecipe.pdf",
+      "name": "LentilsoftheSouthwest%20CACFPhomerecipe.pdf",
+      "bytes": 1407281,
+      "sha256": "4777f043b7c90f0bbc805f9b7f8f702644659e93c6ed15ce68d30b932c2d723a",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 61,
+    "ingredientCount": 10,
+    "directionStepCount": 4,
+    "yieldAsPublished": "Makes six 1/4-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Confetti Soup",
+    "file": "recipes/confetti-soup.txt",
+    "sourcePdf": {
+      "text": "Confetti Soup",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/ConfettiSoupCACFPhomerecipe.pdf",
+      "name": "ConfettiSoupCACFPhomerecipe.pdf",
+      "bytes": 1067668,
+      "sha256": "ab56dfafaba72cccd1d4176ea2aa7c073068208518a44eb6783fed52757b45cb",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 63,
+    "ingredientCount": 13,
+    "directionStepCount": 4,
+    "yieldAsPublished": "Makes six 1-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  },
+  {
+    "title": "Spanish Chickpea Stew",
+    "file": "recipes/spanish-chickpea-stew.txt",
+    "sourcePdf": {
+      "text": "Spanish Chickpea Stew",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/SpanishChickpeaStewCACFPhomerecipe.pdf",
+      "name": "SpanishChickpeaStewCACFPhomerecipe.pdf",
+      "bytes": 1064892,
+      "sha256": "30e64ca7df8a10d26c45865c31dbee047ab960ed08419e1e6d1fe4c3adbc9d9e",
+      "retrieved_date": "2026-10-24"
+    },
+    "sourcePdfPage": 2,
+    "cookbookPage": 81,
+    "ingredientCount": 13,
+    "directionStepCount": 7,
+    "yieldAsPublished": "Makes six 1-cup servings",
+    "transformation": "Plain-text recipe excerpt, ASCII fractions, original amounts retained; no computed grams or nutrient mappings."
+  }
+]

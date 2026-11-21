@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "title": "Invalid recipe example",
+  "entries": [
+    {
+      "id": "meal-1",
+      "date": "2026-10-26",
+      "slot": "dinner",
+      "recipeId": "missing-recipe",
+      "servings": 1
+    }
+  ]
+}

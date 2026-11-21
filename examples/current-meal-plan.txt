@@ -1,0 +1,11 @@
+Example week
+
+2026-10-26 breakfast: Banana oat bowl (2 servings)
+2026-10-26 dinner: Lentil rice bowls (2 servings)
+2026-10-27 breakfast: Yogurt and fruit (2 servings)
+2026-10-27 dinner: Chicken and broccoli bowls (2 servings)
+2026-10-28 breakfast: Egg and spinach toast (2 servings)
+2026-10-28 dinner: Chickpea spinach pasta (2 servings)
+2026-10-29 breakfast: Banana oat bowl (2 servings)
+2026-10-29 dinner: Tofu vegetable rice (2 servings)
+2026-10-30 dinner: Chickpea tomato salad (2 servings)

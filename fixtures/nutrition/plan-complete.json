@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "Complete nutrition example",
+  "entries": [
+    {
+      "id": "meal-1",
+      "date": "2026-10-26",
+      "slot": "breakfast",
+      "recipeId": "oat-bowl",
+      "servings": 1
+    },
+    {
+      "id": "meal-2",
+      "date": "2026-10-26",
+      "slot": "snack",
+      "recipeId": "oat-bowl",
+      "servings": 0.5
+    },
+    {
+      "id": "meal-3",
+      "date": "2026-10-27",
+      "slot": "breakfast",
+      "recipeId": "oat-bowl",
+      "servings": 2
+    }
+  ]
+}

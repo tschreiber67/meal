@@ -1,0 +1,58 @@
+DATA AND FIXTURE NOTES
+
+Food nutrient values in data/foods.json are invented development examples.
+They are not verified nutrition data and must not be presented as factual food
+composition. No customer records or personal health data are included.
+Government price estimates and factual source records are separately bundled
+in reference-data/; the current app does not load them.
+Recipe names describe illustrative combinations, not a validated meal program.
+
+Each food has a stable id, a display name, a category, basisGrams and nutrients.
+All bundled basisGrams values are 100. A future calculation must still use
+basisGrams, rather than assume every incoming record is on a 100 g basis.
+
+Units are explicit in nutrient names:
+energy_kcal, protein_g, carbohydrate_g, fat_g, fiber_g, sodium_mg,
+calcium_mg, iron_mg, vitamin_c_mg and vitamin_d_ug.
+
+Zero is a known zero. Null means unknown. Yogurt has unknown vitamin D.
+Tofu has unknown calcium and vitamin D. Do not replace null with zero.
+The current grocery code intentionally does not read these nutrient fields.
+
+All recipe amounts use grams in the state named in the food catalog. Cooked
+rice quantities refer to cooked rice. They are not dry-rice purchase weights.
+Quantities are required ingredient amounts, not retail package recommendations.
+
+BASELINE FIXTURES
+
+plan-week.json: Nine meals over five dates; 18 servings in total.
+plan-empty.json: A valid empty plan, producing an empty grocery list.
+plan-invalid-recipe.json: Must reject an unknown recipe id.
+plan-invalid-servings.json: Must reject zero servings.
+
+NEXT-CHANGE FIXTURES
+
+nutrition/plan-complete.json: Three meals across two dates; all nutrients known.
+nutrition/plan-partial.json: Yogurt contributes unknown vitamin D; other
+nutrients remain calculable.
+nutrition/expected-complete.json and expected-partial.json: Hand-calculated
+reference amounts for checking the new nutrition implementation. They are
+check data, not a prescribed function signature or a prebuilt implementation.
+
+nutrition/invalid-values.json: Mutations to apply to a COPY of the food catalog
+when testing invalid nutrient data. field targets the nutrients object unless
+location is food. operation delete means remove that key instead of setting
+it. The current grocery-only implementation does not validate these fields.
+
+nutrition/nonfinite-values.mjs: In-memory NaN and infinity mutations, which
+JSON cannot represent faithfully. These must be rejected by nutrition code.
+
+A missing key is malformed data; a present key with null is explicitly unknown.
+No live data fetch is needed to exercise any included example.
+
+REFERENCE DATA
+
+reference-data/ contains sourced material with its own schema, provenance,
+dates, units and source notices. It is separate from these calculation fixtures.
+See reference-data/SOURCES.txt. The fixtures remain fixed mock-data checks;
+their expected values are not USDA claims and should not be silently replaced.

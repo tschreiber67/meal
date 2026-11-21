@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "title": "Example week",
+  "entries": [
+    {
+      "id": "meal-1",
+      "date": "2026-10-26",
+      "slot": "breakfast",
+      "recipeId": "oat-bowl",
+      "servings": 2
+    },
+    {
+      "id": "meal-2",
+      "date": "2026-10-26",
+      "slot": "dinner",
+      "recipeId": "lentil-rice",
+      "servings": 2
+    },
+    {
+      "id": "meal-3",
+      "date": "2026-10-27",
+      "slot": "breakfast",
+      "recipeId": "yogurt-fruit",
+      "servings": 2
+    },
+    {
+      "id": "meal-4",
+      "date": "2026-10-27",
+      "slot": "dinner",
+      "recipeId": "chicken-rice",
+      "servings": 2
+    },
+    {
+      "id": "meal-5",
+      "date": "2026-10-28",
+      "slot": "breakfast",
+      "recipeId": "egg-toast",
+      "servings": 2
+    },
+    {
+      "id": "meal-6",
+      "date": "2026-10-28",
+      "slot": "dinner",
+      "recipeId": "spinach-pasta",
+      "servings": 2
+    },
+    {
+      "id": "meal-7",
+      "date": "2026-10-29",
+      "slot": "breakfast",
+      "recipeId": "oat-bowl",
+      "servings": 2
+    },
+    {
+      "id": "meal-8",
+      "date": "2026-10-29",
+      "slot": "dinner",
+      "recipeId": "tofu-rice",
+      "servings": 2
+    },
+    {
+      "id": "meal-9",
+      "date": "2026-10-30",
+      "slot": "dinner",
+      "recipeId": "chickpea-salad",
+      "servings": 2
+    }
+  ]
+}

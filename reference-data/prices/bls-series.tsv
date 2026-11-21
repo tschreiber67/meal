@@ -1,0 +1,344 @@
+series_id	area_code	item_code	series_title	footnote_codes	begin_year	begin_period	end_year	end_period
+APU0000701111	0000	701111	Flour, white, all purpose, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000701312	0000	701312	Rice, white, long grain, uncooked, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000701322	0000	701322	Spaghetti and macaroni, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0000702111	0000	702111	Bread, white, pan, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000702112	0000	702112	Bread, French, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000702212	0000	702212	Bread, whole wheat, pan, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M05
+APU0000702421	0000	702421	Cookies, chocolate chip, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000703111	0000	703111	Ground chuck, 100% beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000703112	0000	703112	Ground beef, 100% beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0000703113	0000	703113	Ground beef, lean and extra lean, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0000703212	0000	703212	Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0000703213	0000	703213	Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0000703311	0000	703311	Round roast, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000703432	0000	703432	Beef for stew, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0000703511	0000	703511	Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000703512	0000	703512	Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1991	M01	2026	M04
+APU0000703613	0000	703613	Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0000704111	0000	704111	Bacon, sliced, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000704211	0000	704211	Chops, center cut, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M05
+APU0000704212	0000	704212	Chops, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0000704312	0000	704312	Ham, boneless, excluding canned, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0000705111	0000	705111	Frankfurters, all meat or all beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000705121	0000	705121	Bologna, all beef or mixed, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000706111	0000	706111	Chicken, fresh, whole, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000706212	0000	706212	Chicken legs, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000706311	0000	706311	Turkey, frozen, whole, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000708111	0000	708111	Eggs, grade A, large, per doz. in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000708112	0000	708112	Eggs, grade AA, large, per doz. in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000709112	0000	709112	Milk, fresh, whole, fortified, per gal. (3.8 lit) in U.S. city average, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0000710211	0000	710211	American processed cheese, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0000710212	0000	710212	Cheddar cheese, natural, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0000710411	0000	710411	Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000711211	0000	711211	Bananas, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000711311	0000	711311	Oranges, Navel, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000711411	0000	711411	Grapefruit, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000711412	0000	711412	Lemons, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000711413	0000	711413	Pears, Anjou, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000711414	0000	711414	Peaches, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0000711415	0000	711415	Strawberries, dry pint, per 12 oz. (340.2 gm) in U.S. city average, average price, not seasonally adjusted		1980	M04	2026	M09
+APU0000711417	0000	711417	Grapes, Thompson Seedless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M07	2025	M10
+APU0000711418	0000	711418	Cherries, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0000712112	0000	712112	Potatoes, white, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1986	M03	2026	M09
+APU0000712211	0000	712211	Lettuce, iceberg, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000712311	0000	712311	Tomatoes, field grown, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000712406	0000	712406	Peppers, sweet, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000712412	0000	712412	Broccoli, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0000713111	0000	713111	Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M07
+APU0000714221	0000	714221	Corn, canned, any style, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0000714233	0000	714233	Beans, dried, any type, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0000715211	0000	715211	Sugar, white, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000715212	0000	715212	Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0000716116	0000	716116	Margarine, soft, tubs, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0000717311	0000	717311	Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000718311	0000	718311	Potato chips, per 16 oz. in U.S. city average, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0000720111	0000	720111	Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in U.S. city average, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0000720222	0000	720222	Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in U.S. city average, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0000720311	0000	720311	Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in U.S. city average, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0000FC1101	0000	FC1101	All uncooked ground beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FC2101	0000	FC2101	All Uncooked Beef Roasts, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FC3101	0000	FC3101	All Uncooked Beef Steaks, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FC4101	0000	FC4101	All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FD2101	0000	FD2101	All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FD3101	0000	FD3101	All Pork Chops, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FD4101	0000	FD4101	All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0000FF1101	0000	FF1101	Chicken breast, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		2006	M01	2026	M09
+APU0000FJ1101	0000	FJ1101	Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in U.S. city average, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0000FJ4101	0000	FJ4101	Yogurt, per 8 oz. (226.8 gm) in U.S. city average, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0000FL2101	0000	FL2101	Lettuce, romaine, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		2006	M01	2026	M09
+APU0000FN1101	0000	FN1101	All soft drinks, per 2 liters (67.6 oz) in U.S. city average, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0000FN1102	0000	FN1102	All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in U.S. city average, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0000FS1101	0000	FS1101	Butter, stick, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0100701111	0100	701111	Flour, white, all purpose, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100701312	0100	701312	Rice, white, long grain, uncooked, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100701322	0100	701322	Spaghetti and macaroni, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0100702111	0100	702111	Bread, white, pan, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M04
+APU0100702212	0100	702212	Bread, whole wheat, pan, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M12	2025	M10
+APU0100702421	0100	702421	Cookies, chocolate chip, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100703111	0100	703111	Ground chuck, 100% beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100703112	0100	703112	Ground beef, 100% beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1984	M03	2026	M09
+APU0100703113	0100	703113	Ground beef, lean and extra lean, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0100703213	0100	703213	Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0100703311	0100	703311	Round roast, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100703432	0100	703432	Beef for stew, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		2012	M11	2025	M10
+APU0100703511	0100	703511	Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100703512	0100	703512	Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1994	M02	2025	M10
+APU0100703613	0100	703613	Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1989	M01	2025	M10
+APU0100704111	0100	704111	Bacon, sliced, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0100704211	0100	704211	Chops, center cut, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100704212	0100	704212	Chops, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0100704312	0100	704312	Ham, boneless, excluding canned, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		2002	M10	2026	M09
+APU0100705111	0100	705111	Frankfurters, all meat or all beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100705121	0100	705121	Bologna, all beef or mixed, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100706111	0100	706111	Chicken, fresh, whole, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0100706212	0100	706212	Chicken legs, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100706311	0100	706311	Turkey, frozen, whole, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100708111	0100	708111	Eggs, grade A, large, per doz. in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100709112	0100	709112	Milk, fresh, whole, fortified, per gal. (3.8 lit) in Northeast urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0100710211	0100	710211	American processed cheese, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0100710212	0100	710212	Cheddar cheese, natural, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0100710411	0100	710411	Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100711211	0100	711211	Bananas, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0100711311	0100	711311	Oranges, Navel, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M04
+APU0100711411	0100	711411	Grapefruit, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100711412	0100	711412	Lemons, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0100711414	0100	711414	Peaches, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0100711415	0100	711415	Strawberries, dry pint, per 12 oz. (340.2 gm) in Northeast urban, average price, not seasonally adjusted		1980	M04	2025	M10
+APU0100711417	0100	711417	Grapes, Thompson Seedless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M07	2025	M10
+APU0100711418	0100	711418	Cherries, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0100712112	0100	712112	Potatoes, white, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1986	M03	2026	M09
+APU0100712211	0100	712211	Lettuce, iceberg, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100712311	0100	712311	Tomatoes, field grown, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0100712406	0100	712406	Peppers, sweet, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100712412	0100	712412	Broccoli, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0100713111	0100	713111	Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100714221	0100	714221	Corn, canned, any style, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1996	M06	2025	M10
+APU0100714233	0100	714233	Beans, dried, any type, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2025	M10
+APU0100715211	0100	715211	Sugar, white, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100715212	0100	715212	Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100716116	0100	716116	Margarine, soft, tubs, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0100717311	0100	717311	Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0100718311	0100	718311	Potato chips, per 16 oz. in Northeast urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0100720111	0100	720111	Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in Northeast urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0100720222	0100	720222	Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in Northeast urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0100720311	0100	720311	Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in Northeast urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0100FC1101	0100	FC1101	All uncooked ground beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FC2101	0100	FC2101	All Uncooked Beef Roasts, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FC3101	0100	FC3101	All Uncooked Beef Steaks, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FC4101	0100	FC4101	All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FD2101	0100	FD2101	All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FD3101	0100	FD3101	All Pork Chops, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FD4101	0100	FD4101	All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0100FF1101	0100	FF1101	Chicken breast, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted		2006	M05	2026	M09
+APU0100FJ1101	0100	FJ1101	Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in Northeast, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0100FJ4101	0100	FJ4101	Yogurt, per 8 oz. (226.8 gm) in Northeast, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0100FL2101	0100	FL2101	Lettuce, romaine, per lb. (453.6 gm) in Northeast, average price, not seasonally adjusted		2025	M10	2026	M09
+APU0100FN1101	0100	FN1101	All soft drinks, per 2 liters (67.6 oz) in Northeast, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0100FN1102	0100	FN1102	All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in Northeast, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0200701111	0200	701111	Flour, white, all purpose, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200701312	0200	701312	Rice, white, long grain, uncooked, per lb. (453.6 gm) in Midwest, average price, not seasonally adjusted		2021	M11	2025	M10
+APU0200701322	0200	701322	Spaghetti and macaroni, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0200702111	0200	702111	Bread, white, pan, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M05
+APU0200702112	0200	702112	Bread, French, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M09	2025	M10
+APU0200702212	0200	702212	Bread, whole wheat, pan, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200702421	0200	702421	Cookies, chocolate chip, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200703111	0200	703111	Ground chuck, 100% beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200703112	0200	703112	Ground beef, 100% beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0200703113	0200	703113	Ground beef, lean and extra lean, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0200703212	0200	703212	Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1991	M12	2025	M10
+APU0200703213	0200	703213	Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0200703311	0200	703311	Round roast, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200703432	0200	703432	Beef for stew, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0200703511	0200	703511	Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200703512	0200	703512	Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1992	M03	2025	M10
+APU0200703613	0200	703613	Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0200704111	0200	704111	Bacon, sliced, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200704211	0200	704211	Chops, center cut, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200704212	0200	704212	Chops, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0200704312	0200	704312	Ham, boneless, excluding canned, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0200705111	0200	705111	Frankfurters, all meat or all beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200705121	0200	705121	Bologna, all beef or mixed, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200706111	0200	706111	Chicken, fresh, whole, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200706212	0200	706212	Chicken legs, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M11	2025	M10
+APU0200706311	0200	706311	Turkey, frozen, whole, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200708111	0200	708111	Eggs, grade A, large, per doz. in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200709112	0200	709112	Milk, fresh, whole, fortified, per gal. (3.8 lit) in Midwest urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0200710211	0200	710211	American processed cheese, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0200710212	0200	710212	Cheddar cheese, natural, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0200710411	0200	710411	Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200711211	0200	711211	Bananas, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200711311	0200	711311	Oranges, Navel, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200711411	0200	711411	Grapefruit, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200711412	0200	711412	Lemons, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200711413	0200	711413	Pears, Anjou, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200711414	0200	711414	Peaches, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0200711415	0200	711415	Strawberries, dry pint, per 12 oz. (340.2 gm) in Midwest urban, average price, not seasonally adjusted		1980	M04	2025	M10
+APU0200711417	0200	711417	Grapes, Thompson Seedless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M07	2025	M10
+APU0200711418	0200	711418	Cherries, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0200712112	0200	712112	Potatoes, white, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1986	M03	2026	M09
+APU0200712211	0200	712211	Lettuce, iceberg, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200712311	0200	712311	Tomatoes, field grown, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200712406	0200	712406	Peppers, sweet, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200712412	0200	712412	Broccoli, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0200713111	0200	713111	Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200714233	0200	714233	Beans, dried, any type, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1995	M11	2025	M10
+APU0200715211	0200	715211	Sugar, white, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200715212	0200	715212	Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200716116	0200	716116	Margarine, soft, tubs, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0200717311	0200	717311	Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0200718311	0200	718311	Potato chips, per 16 oz. in Midwest urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0200720111	0200	720111	Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in Midwest urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0200720222	0200	720222	Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in Midwest urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0200720311	0200	720311	Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in Midwest urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0200FC1101	0200	FC1101	All uncooked ground beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FC2101	0200	FC2101	All Uncooked Beef Roasts, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FC3101	0200	FC3101	All Uncooked Beef Steaks, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FC4101	0200	FC4101	All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FD2101	0200	FD2101	All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FD3101	0200	FD3101	All Pork Chops, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FD4101	0200	FD4101	All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0200FF1101	0200	FF1101	Chicken breast, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		2006	M01	2026	M09
+APU0200FJ1101	0200	FJ1101	Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in Midwest, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0200FJ4101	0200	FJ4101	Yogurt, per 8 oz. (226.8 gm) in Midwest, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0200FL2101	0200	FL2101	Lettuce, romaine, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted		2006	M06	2025	M10
+APU0200FN1101	0200	FN1101	All soft drinks, per 2 liters (67.6 oz) in Midwest, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0200FN1102	0200	FN1102	All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in Midwest, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0200FS1101	0200	FS1101	Butter, stick, per lb. (453.6 gm) in Midwest, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0300701111	0300	701111	Flour, white, all purpose, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300701312	0300	701312	Rice, white, long grain, uncooked, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300701322	0300	701322	Spaghetti and macaroni, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0300702111	0300	702111	Bread, white, pan, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300702112	0300	702112	Bread, French, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300702212	0300	702212	Bread, whole wheat, pan, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300702421	0300	702421	Cookies, chocolate chip, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M04
+APU0300703111	0300	703111	Ground chuck, 100% beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300703112	0300	703112	Ground beef, 100% beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0300703113	0300	703113	Ground beef, lean and extra lean, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0300703212	0300	703212	Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0300703213	0300	703213	Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0300703311	0300	703311	Round roast, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300703432	0300	703432	Beef for stew, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1991	M01	2026	M05
+APU0300703511	0300	703511	Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300703512	0300	703512	Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0300703613	0300	703613	Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0300704111	0300	704111	Bacon, sliced, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300704211	0300	704211	Chops, center cut, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300704212	0300	704212	Chops, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0300704312	0300	704312	Ham, boneless, excluding canned, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0300705111	0300	705111	Frankfurters, all meat or all beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300705121	0300	705121	Bologna, all beef or mixed, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300706111	0300	706111	Chicken, fresh, whole, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300706212	0300	706212	Chicken legs, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300706311	0300	706311	Turkey, frozen, whole, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300708111	0300	708111	Eggs, grade A, large, per doz. in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300709112	0300	709112	Milk, fresh, whole, fortified, per gal. (3.8 lit) in South urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0300710211	0300	710211	American processed cheese, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1987	M01	2026	M09
+APU0300710212	0300	710212	Cheddar cheese, natural, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0300710411	0300	710411	Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300711211	0300	711211	Bananas, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300711311	0300	711311	Oranges, Navel, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300711411	0300	711411	Grapefruit, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300711412	0300	711412	Lemons, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300711413	0300	711413	Pears, Anjou, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300711414	0300	711414	Peaches, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0300711415	0300	711415	Strawberries, dry pint, per 12 oz. (340.2 gm) in South urban, average price, not seasonally adjusted		1980	M03	2026	M09
+APU0300711417	0300	711417	Grapes, Thompson Seedless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M07	2025	M10
+APU0300711418	0300	711418	Cherries, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0300712112	0300	712112	Potatoes, white, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1986	M03	2026	M09
+APU0300712211	0300	712211	Lettuce, iceberg, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300712311	0300	712311	Tomatoes, field grown, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300712406	0300	712406	Peppers, sweet, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300712412	0300	712412	Broccoli, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0300713111	0300	713111	Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300714221	0300	714221	Corn, canned, any style, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0300714233	0300	714233	Beans, dried, any type, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0300715211	0300	715211	Sugar, white, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300715212	0300	715212	Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300716116	0300	716116	Margarine, soft, tubs, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0300717311	0300	717311	Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0300718311	0300	718311	Potato chips, per 16 oz. in South urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0300720111	0300	720111	Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in South urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0300720311	0300	720311	Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in South urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0300FC1101	0300	FC1101	All uncooked ground beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FC2101	0300	FC2101	All Uncooked Beef Roasts, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FC3101	0300	FC3101	All Uncooked Beef Steaks, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FC4101	0300	FC4101	All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FD2101	0300	FD2101	All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FD3101	0300	FD3101	All Pork Chops, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FD4101	0300	FD4101	All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0300FF1101	0300	FF1101	Chicken breast, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		2006	M01	2026	M09
+APU0300FJ1101	0300	FJ1101	Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in South, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0300FJ4101	0300	FJ4101	Yogurt, per 8 oz. (226.8 gm) in South, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0300FL2101	0300	FL2101	Lettuce, romaine, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted		2006	M01	2026	M09
+APU0300FN1101	0300	FN1101	All soft drinks, per 2 liters (67.6 oz) in South, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0300FN1102	0300	FN1102	All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in South, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0400701111	0400	701111	Flour, white, all purpose, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400701312	0400	701312	Rice, white, long grain, uncooked, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400701322	0400	701322	Spaghetti and macaroni, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1988	M02	2025	M10
+APU0400702111	0400	702111	Bread, white, pan, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400702112	0400	702112	Bread, French, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400702212	0400	702212	Bread, whole wheat, pan, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400702421	0400	702421	Cookies, chocolate chip, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400703111	0400	703111	Ground chuck, 100% beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400703112	0400	703112	Ground beef, 100% beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0400703113	0400	703113	Ground beef, lean and extra lean, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0400703212	0400	703212	Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0400703213	0400	703213	Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0400703311	0400	703311	Round roast, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400703432	0400	703432	Beef for stew, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		2002	M10	2025	M10
+APU0400703511	0400	703511	Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400703512	0400	703512	Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1991	M01	2025	M10
+APU0400703613	0400	703613	Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1989	M01	2026	M09
+APU0400704111	0400	704111	Bacon, sliced, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400704211	0400	704211	Chops, center cut, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400704212	0400	704212	Chops, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0400704312	0400	704312	Ham, boneless, excluding canned, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1991	M01	2026	M09
+APU0400705111	0400	705111	Frankfurters, all meat or all beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400705121	0400	705121	Bologna, all beef or mixed, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400706111	0400	706111	Chicken, fresh, whole, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400706212	0400	706212	Chicken legs, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M04
+APU0400706311	0400	706311	Turkey, frozen, whole, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400708112	0400	708112	Eggs, grade AA, large, per doz. in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400709112	0400	709112	Milk, fresh, whole, fortified, per gal. (3.8 lit) in West urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0400710211	0400	710211	American processed cheese, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		2014	M11	2025	M10
+APU0400710212	0400	710212	Cheddar cheese, natural, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1984	M01	2026	M09
+APU0400710411	0400	710411	Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400711211	0400	711211	Bananas, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400711311	0400	711311	Oranges, Navel, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M05
+APU0400711411	0400	711411	Grapefruit, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400711412	0400	711412	Lemons, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400711413	0400	711413	Pears, Anjou, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400711414	0400	711414	Peaches, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0400711415	0400	711415	Strawberries, dry pint, per 12 oz. (340.2 gm) in West urban, average price, not seasonally adjusted		1980	M04	2025	M10
+APU0400711417	0400	711417	Grapes, Thompson Seedless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M07	2025	M10
+APU0400711418	0400	711418	Cherries, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M06	2025	M10
+APU0400712112	0400	712112	Potatoes, white, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1986	M03	2026	M09
+APU0400712211	0400	712211	Lettuce, iceberg, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400712311	0400	712311	Tomatoes, field grown, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400712406	0400	712406	Peppers, sweet, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400712412	0400	712412	Broccoli, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1995	M07	2025	M10
+APU0400713111	0400	713111	Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400714233	0400	714233	Beans, dried, any type, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400715211	0400	715211	Sugar, white, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400715212	0400	715212	Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400716116	0400	716116	Margarine, soft, tubs, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1984	M01	2025	M10
+APU0400717311	0400	717311	Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1980	M01	2025	M10
+APU0400718311	0400	718311	Potato chips, per 16 oz. in West urban, average price, not seasonally adjusted		1980	M01	2026	M09
+APU0400720111	0400	720111	Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in West urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0400720222	0400	720222	Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in West urban, average price, not seasonally adjusted		1995	M08	2025	M10
+APU0400720311	0400	720311	Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in West urban, average price, not seasonally adjusted		1995	M07	2026	M09
+APU0400FC1101	0400	FC1101	All uncooked ground beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FC2101	0400	FC2101	All Uncooked Beef Roasts, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FC3101	0400	FC3101	All Uncooked Beef Steaks, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FC4101	0400	FC4101	All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FD2101	0400	FD2101	All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FD3101	0400	FD3101	All Pork Chops, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FD4101	0400	FD4101	All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		1998	M01	2026	M09
+APU0400FF1101	0400	FF1101	Chicken breast, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		2006	M01	2026	M09
+APU0400FJ1101	0400	FJ1101	Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in West, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0400FJ4101	0400	FJ4101	Yogurt, per 8 oz. (226.8 gm) in West, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0400FL2101	0400	FL2101	Lettuce, romaine, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted		2006	M01	2026	M05
+APU0400FN1101	0400	FN1101	All soft drinks, per 2 liters (67.6 oz) in West, average price, not seasonally adjusted		2018	M04	2025	M10
+APU0400FN1102	0400	FN1102	All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in West, average price, not seasonally adjusted		2018	M04	2026	M09
+APU0400FS1101	0400	FS1101	Butter, stick, per lb. (453.6 gm) in West, average price, not seasonally adjusted		2018	M04	2025	M10

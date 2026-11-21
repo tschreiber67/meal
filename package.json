@@ -1,0 +1,14 @@
+{
+  "name": "meal-planner-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline recipe planning and consolidated grocery lists",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.mjs",
+    "check": "node scripts/preflight.mjs"
+  }
+}

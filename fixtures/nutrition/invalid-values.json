@@ -1,0 +1,33 @@
+[
+  {
+    "name": "negative nutrient",
+    "foodId": "oats",
+    "field": "protein_g",
+    "value": -1
+  },
+  {
+    "name": "numeric string",
+    "foodId": "oats",
+    "field": "energy_kcal",
+    "value": "400"
+  },
+  {
+    "name": "boolean nutrient",
+    "foodId": "oats",
+    "field": "fat_g",
+    "value": false
+  },
+  {
+    "name": "missing nutrient key",
+    "foodId": "oats",
+    "field": "sodium_mg",
+    "operation": "delete"
+  },
+  {
+    "name": "zero basis",
+    "foodId": "oats",
+    "field": "basisGrams",
+    "value": 0,
+    "location": "food"
+  }
+]

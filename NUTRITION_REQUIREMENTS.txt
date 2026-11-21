@@ -1,0 +1,101 @@
+NUTRITION AGGREGATION: NEXT BACKEND CHANGE
+
+PURPOSE
+
+The existing planner scales recipe ingredients and generates grocery lists.
+Add a reusable nutrient calculator so those same plans can report the known
+nutrition amounts for each meal, each date and the whole plan.
+
+SCOPE
+
+Add a pure calculation entry point importable by Node and browser JavaScript.
+Use the existing foods, recipes, plan structure and validation behavior.
+Add a nutrition command to the CLI, with readable text and JSON outputs.
+Add acceptance tests. Preserve the existing planner, CLI and grocery outputs.
+Browser nutrition displays are outside this change.
+
+No goal recommendations, nutrition target selection, meal optimization,
+pricing, accounts or external data services are needed for this change.
+
+CALCULATION
+
+For each planned entry, ingredient grams are the recipe ingredient grams
+multiplied by entry.servings / recipe.yieldServings.
+
+A nutrient contribution is ingredient grams / food.basisGrams multiplied by
+the nutrient value on that food record. Use the energy_kcal field as supplied;
+do not derive energy from the macro fields.
+
+Aggregate unrounded contributions into meals, days and whole-plan totals.
+Round reported nutrient quantities to two decimal places only at each final
+output level. Do not sum already-rounded meal outputs to produce day totals.
+Do not round ingredient grams before computing nutrients.
+
+Validate finite, positive basisGrams and exactly the ten supported nutrient
+keys listed in DATA_NOTES.txt for each referenced food. Known nutrient values
+must be numbers, finite and nonnegative. Null is permitted as explicit unknown.
+Missing or unknown keys, strings, booleans, negative and nonfinite values are
+invalid. Validate computed values too so overflow cannot produce a false result.
+
+An unreferenced food with missing nutrient data does not make a plan partial.
+The grocery catalog must still pass its existing structural validation.
+
+MISSING DATA
+
+For each nutrient at each output level, return:
+- knownAmount: sum of only known contributions, rounded to two decimal places.
+- complete: true only if every contributing ingredient has a known value.
+- missingFoodIds: sorted unique ids of foods missing that nutrient.
+
+Do not label a partial knownAmount as a complete total. For example, yogurt's
+unknown vitamin D makes that nutrient partial in its meal, its day and the
+plan. Protein in the same meal can still be complete. Repeated use of a food
+must not duplicate its id in missingFoodIds.
+
+RESULT CONTRACT
+
+Use schemaVersion 1 and include the plan title, nutrient units, meal results,
+day results and a whole-plan result. Meal results identify entry id, date,
+slot, recipe id and servings. Days identify dates and included entry ids.
+Keep nutrients in the documented order. Keep meals in the existing planner's
+sorted order and days in ascending date order.
+
+Each nutrient result follows the three-field missing-data shape above.
+The result's status is complete, partial or empty. Empty applies to a valid
+plan with no entries: no meal/day records, zero known amounts, no missing food
+ids and complete=true for every whole-plan nutrient. Do not claim it meets
+any dietary need.
+
+Invalid input must fail with an actionable error; it must not emit a success
+result. Use the project's InputError convention. CLI failures exit nonzero,
+print the error on stderr and do not print a successful JSON result on stdout.
+
+The same inputs must produce the same result. Do not use random values,
+current timestamps or network requests. Do not mutate input objects.
+
+CLI
+
+Add these commands; they are NOT implemented in the starting version:
+
+node cli.mjs nutrition fixtures/nutrition/plan-complete.json --format json
+node cli.mjs nutrition fixtures/nutrition/plan-partial.json --format text
+
+Use the example week when the plan argument is omitted, matching the other
+CLI commands. Text output must visibly label partial nutrient amounts.
+JSON output must contain only the JSON result so it can be redirected to a file.
+
+VERIFICATION
+
+Run node --test for regression checks plus the new acceptance tests.
+Compare complete/partial fixtures with the expected files in fixtures/nutrition.
+Test a valid empty plan, invalid recipe/servings, mutations in invalid-values,
+and in-memory NaN/Infinity cases. Confirm both interfaces fail appropriately.
+Test a non-100 g nutrition basis, rounding after aggregation, repeated missing
+foods, and the difference between null, zero and a missing key.
+Test that missing nutrients in an unused food do not reduce completeness.
+Repeat each valid calculation and confirm identical output and unchanged inputs.
+Inspect actual CLI JSON/text output in addition to a passing test summary.
+
+The existing 13 tests cover only the baseline. None proves this new feature is
+complete. The included expected values must be checked independently rather
+than overwritten to match whatever the implementation produces.

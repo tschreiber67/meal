@@ -1,0 +1,47 @@
+THIRD-PARTY SOURCE NOTICES
+
+The MIT license at the repository root applies to the starter software and
+original project material. It does not relicense the third-party source data
+and USDA recipe excerpts in reference-data/.
+
+USDA FOODDATA CENTRAL
+U.S. Department of Agriculture, Agricultural Research Service.
+FoodData Central. https://fdc.nal.usda.gov/
+Releases included: Foundation April 2026; SR Legacy April 2018;
+FNDDS 2021-2023, October 2024 release.
+The official API guide identifies FDC data as public domain and published
+under CC0 1.0 Universal. Attribution is requested.
+https://fdc.nal.usda.gov/api-guide/#bkmk-9
+https://creativecommons.org/publicdomain/zero/1.0/
+
+USDA RECIPE EXCERPTS
+U.S. Department of Agriculture. Recipes for Healthy Kids: Cookbook for Homes.
+Source URLs and page references accompany each excerpt.
+The official cookbook page states:
+"All are welcome to download these materials and make copies."
+https://www.fna.usda.gov/tn/recipes-healthy-kids-cookbook-homes
+Text excerpts preserve ingredients, directions and source quantities.
+Formatting and fractional glyphs are converted to plain ASCII. Photographs,
+school stories and food-group credit sections are not reproduced here.
+
+USDA ECONOMIC RESEARCH SERVICE PRICE TABLES
+U.S. Department of Agriculture, Economic Research Service.
+Fruit and Vegetable Prices, 2023 estimates, posted December 9, 2025.
+https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices
+U.S. Department of Agriculture, Economic Research Service. (2023).
+Purchase to Plate National Average Prices from the Purchase to Plate Suite.
+https://www.ers.usda.gov/data-products/purchase-to-plate
+These are the publicly downloadable ERS estimates, not the underlying
+commercial scanner records or restricted Purchase to Plate tools.
+ERS states that findings in these products should not be attributed to Circana.
+Source attributions and field definitions are retained.
+
+BUREAU OF LABOR STATISTICS
+U.S. Bureau of Labor Statistics. Average Price Data, food series.
+https://download.bls.gov/pub/time.series/ap/
+BLS identifies its published data as public domain and asks for attribution.
+https://www.bls.gov/bls/linksite.htm
+No BLS photographs, illustrations or emblem are included.
+
+Retrieval date for bundled sources: October 24, 2026.
+No government endorsement of this application is implied.

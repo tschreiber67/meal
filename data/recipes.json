@@ -1,0 +1,217 @@
+[
+  {
+    "id": "oat-bowl",
+    "name": "Banana oat bowl",
+    "yieldServings": 2,
+    "ingredients": [
+      {
+        "foodId": "oats",
+        "grams": 100
+      },
+      {
+        "foodId": "milk",
+        "grams": 200
+      },
+      {
+        "foodId": "banana",
+        "grams": 200
+      }
+    ],
+    "instructions": [
+      "Combine oats and milk and prepare to your preference.",
+      "Divide between two bowls and add sliced banana."
+    ]
+  },
+  {
+    "id": "yogurt-fruit",
+    "name": "Yogurt and fruit",
+    "yieldServings": 1,
+    "ingredients": [
+      {
+        "foodId": "yogurt",
+        "grams": 150
+      },
+      {
+        "foodId": "banana",
+        "grams": 100
+      },
+      {
+        "foodId": "berries",
+        "grams": 50
+      }
+    ],
+    "instructions": [
+      "Put yogurt in a bowl and add the fruit."
+    ]
+  },
+  {
+    "id": "lentil-rice",
+    "name": "Lentil rice bowls",
+    "yieldServings": 2,
+    "ingredients": [
+      {
+        "foodId": "lentils",
+        "grams": 300
+      },
+      {
+        "foodId": "rice",
+        "grams": 200
+      },
+      {
+        "foodId": "tomato",
+        "grams": 100
+      },
+      {
+        "foodId": "oil",
+        "grams": 10
+      }
+    ],
+    "instructions": [
+      "Combine prepared lentils and rice.",
+      "Add chopped tomato and olive oil."
+    ]
+  },
+  {
+    "id": "chicken-rice",
+    "name": "Chicken and broccoli bowls",
+    "yieldServings": 2,
+    "ingredients": [
+      {
+        "foodId": "chicken",
+        "grams": 240
+      },
+      {
+        "foodId": "rice",
+        "grams": 300
+      },
+      {
+        "foodId": "broccoli",
+        "grams": 200
+      },
+      {
+        "foodId": "oil",
+        "grams": 10
+      }
+    ],
+    "instructions": [
+      "Warm the already-cooked chicken and rice.",
+      "Prepare broccoli and divide everything between two bowls."
+    ]
+  },
+  {
+    "id": "spinach-pasta",
+    "name": "Chickpea spinach pasta",
+    "yieldServings": 2,
+    "ingredients": [
+      {
+        "foodId": "pasta",
+        "grams": 300
+      },
+      {
+        "foodId": "chickpeas",
+        "grams": 200
+      },
+      {
+        "foodId": "spinach",
+        "grams": 100
+      },
+      {
+        "foodId": "tomato",
+        "grams": 200
+      },
+      {
+        "foodId": "oil",
+        "grams": 10
+      }
+    ],
+    "instructions": [
+      "Combine prepared pasta, chickpeas and vegetables.",
+      "Warm through and add olive oil."
+    ]
+  },
+  {
+    "id": "egg-toast",
+    "name": "Egg and spinach toast",
+    "yieldServings": 1,
+    "ingredients": [
+      {
+        "foodId": "egg",
+        "grams": 100
+      },
+      {
+        "foodId": "bread",
+        "grams": 80
+      },
+      {
+        "foodId": "spinach",
+        "grams": 50
+      },
+      {
+        "foodId": "oil",
+        "grams": 5
+      }
+    ],
+    "instructions": [
+      "Cook the egg and spinach to your preference.",
+      "Serve with toast."
+    ]
+  },
+  {
+    "id": "tofu-rice",
+    "name": "Tofu vegetable rice",
+    "yieldServings": 2,
+    "ingredients": [
+      {
+        "foodId": "tofu",
+        "grams": 300
+      },
+      {
+        "foodId": "rice",
+        "grams": 300
+      },
+      {
+        "foodId": "carrot",
+        "grams": 150
+      },
+      {
+        "foodId": "broccoli",
+        "grams": 200
+      },
+      {
+        "foodId": "oil",
+        "grams": 10
+      }
+    ],
+    "instructions": [
+      "Prepare tofu and vegetables.",
+      "Serve over cooked rice."
+    ]
+  },
+  {
+    "id": "chickpea-salad",
+    "name": "Chickpea tomato salad",
+    "yieldServings": 2,
+    "ingredients": [
+      {
+        "foodId": "chickpeas",
+        "grams": 300
+      },
+      {
+        "foodId": "tomato",
+        "grams": 200
+      },
+      {
+        "foodId": "spinach",
+        "grams": 100
+      },
+      {
+        "foodId": "oil",
+        "grams": 15
+      }
+    ],
+    "instructions": [
+      "Combine prepared chickpeas, chopped tomato and spinach.",
+      "Toss with olive oil."
+    ]
+  }
+]

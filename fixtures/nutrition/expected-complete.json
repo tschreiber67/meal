@@ -1,0 +1,95 @@
+{
+  "planFile": "fixtures/nutrition/plan-complete.json",
+  "mealAmounts": [
+    {
+      "entryId": "meal-1",
+      "amounts": {
+        "energy_kcal": 340,
+        "protein_g": 10,
+        "carbohydrate_g": 55,
+        "fat_g": 6,
+        "fiber_g": 8,
+        "sodium_mg": 42,
+        "calcium_mg": 130,
+        "iron_mg": 2.3,
+        "vitamin_c_mg": 10,
+        "vitamin_d_ug": 1
+      }
+    },
+    {
+      "entryId": "meal-2",
+      "amounts": {
+        "energy_kcal": 170,
+        "protein_g": 5,
+        "carbohydrate_g": 27.5,
+        "fat_g": 3,
+        "fiber_g": 4,
+        "sodium_mg": 21,
+        "calcium_mg": 65,
+        "iron_mg": 1.15,
+        "vitamin_c_mg": 5,
+        "vitamin_d_ug": 0.5
+      }
+    },
+    {
+      "entryId": "meal-3",
+      "amounts": {
+        "energy_kcal": 680,
+        "protein_g": 20,
+        "carbohydrate_g": 110,
+        "fat_g": 12,
+        "fiber_g": 16,
+        "sodium_mg": 84,
+        "calcium_mg": 260,
+        "iron_mg": 4.6,
+        "vitamin_c_mg": 20,
+        "vitamin_d_ug": 2
+      }
+    }
+  ],
+  "dayAmounts": [
+    {
+      "date": "2026-10-26",
+      "amounts": {
+        "energy_kcal": 510,
+        "protein_g": 15,
+        "carbohydrate_g": 82.5,
+        "fat_g": 9,
+        "fiber_g": 12,
+        "sodium_mg": 63,
+        "calcium_mg": 195,
+        "iron_mg": 3.45,
+        "vitamin_c_mg": 15,
+        "vitamin_d_ug": 1.5
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "amounts": {
+        "energy_kcal": 680,
+        "protein_g": 20,
+        "carbohydrate_g": 110,
+        "fat_g": 12,
+        "fiber_g": 16,
+        "sodium_mg": 84,
+        "calcium_mg": 260,
+        "iron_mg": 4.6,
+        "vitamin_c_mg": 20,
+        "vitamin_d_ug": 2
+      }
+    }
+  ],
+  "totalAmounts": {
+    "energy_kcal": 1190,
+    "protein_g": 35,
+    "carbohydrate_g": 192.5,
+    "fat_g": 21,
+    "fiber_g": 28,
+    "sodium_mg": 147,
+    "calcium_mg": 455,
+    "iron_mg": 8.05,
+    "vitamin_c_mg": 35,
+    "vitamin_d_ug": 3.5
+  },
+  "allNutrientsComplete": true
+}

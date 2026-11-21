@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "title": "Invalid servings example",
+  "entries": [
+    {
+      "id": "meal-1",
+      "date": "2026-10-26",
+      "slot": "dinner",
+      "recipeId": "oat-bowl",
+      "servings": 0
+    }
+  ]
+}

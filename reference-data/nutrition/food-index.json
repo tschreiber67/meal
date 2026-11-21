@@ -1,0 +1,1787 @@
+[
+  {
+    "source": "foundation",
+    "fdcId": 321360,
+    "description": "Tomatoes, grape, raw",
+    "portionCount": 3,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 323505,
+    "description": "Kale, raw",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 323604,
+    "description": "Egg, whole, raw, frozen, pasteurized",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 325036,
+    "description": "Cheese, parmesan, grated",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 326196,
+    "description": "Kale, frozen, cooked, boiled, drained, without salt",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 328637,
+    "description": "Cheese, cheddar",
+    "portionCount": 3,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 329370,
+    "description": "Cheese, mozzarella, low moisture, part-skim",
+    "portionCount": 0,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 329490,
+    "description": "Egg, whole, dried",
+    "portionCount": 3,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 330137,
+    "description": "Yogurt, Greek, plain, nonfat",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 333281,
+    "description": "Tomatoes, canned, red, ripe, diced",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 746764,
+    "description": "Carrots, frozen, unprepared",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 746772,
+    "description": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 746775,
+    "description": "Salt, table, iodized",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 746776,
+    "description": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 746778,
+    "description": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 746782,
+    "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 747447,
+    "description": "Broccoli, raw",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 748278,
+    "description": "Oil, canola",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 748608,
+    "description": "Oil, olive, extra virgin",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 790577,
+    "description": "Onions, red, raw",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 790646,
+    "description": "Onions, yellow, raw",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1104647,
+    "description": "Garlic, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1104962,
+    "description": "Onions, white, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1105073,
+    "description": "Bananas, overripe, raw",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1105314,
+    "description": "Bananas, ripe and slightly ripe, raw",
+    "portionCount": 2,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1750351,
+    "description": "Oil, olive, extra light",
+    "portionCount": 0,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1999629,
+    "description": "Mushrooms, white button",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1999632,
+    "description": "Spinach, baby",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 1999633,
+    "description": "Spinach, mature",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2003591,
+    "description": "Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+    "portionCount": 0,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2003597,
+    "description": "Orange juice, no pulp, not fortified, not from concentrate, refrigerated",
+    "portionCount": 0,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2258586,
+    "description": "Carrots, mature, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2258587,
+    "description": "Carrots, baby, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2259793,
+    "description": "Yogurt, plain, whole milk",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2259794,
+    "description": "Yogurt, Greek, plain, whole milk",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2259795,
+    "description": "Cheese, parmesan, grated, refrigerated",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2259796,
+    "description": "Cheese, feta, whole milk, crumbled",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346396,
+    "description": "Oats, whole grain, rolled, old fashioned",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346397,
+    "description": "Oats, whole grain, steel cut",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346404,
+    "description": "Sweet potatoes, orange flesh, without skin, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346405,
+    "description": "Celery, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346407,
+    "description": "Cabbage, green, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346408,
+    "description": "Cabbage, red, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346409,
+    "description": "Strawberries, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2346411,
+    "description": "Blueberries, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2512380,
+    "description": "Rice, brown, long grain, unenriched, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2512381,
+    "description": "Rice, white, long grain, unenriched, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644282,
+    "description": "Chickpeas, (garbanzo beans, bengal gram), dry",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644283,
+    "description": "Lentils, dry",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644285,
+    "description": "Beans, black, canned, sodium added, drained and rinsed",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644288,
+    "description": "Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644289,
+    "description": "Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644290,
+    "description": "Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644291,
+    "description": "Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2644292,
+    "description": "Beans, pinto, canned, sodium added, drained and rinsed",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2646170,
+    "description": "Chicken, breast, boneless, skinless, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2647437,
+    "description": "Yogurt, plain, nonfat",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2685568,
+    "description": "Squash, summer, green, zucchini, includes skin, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2685569,
+    "description": "Squash, summer, yellow, includes skin, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2685572,
+    "description": "Cabbage, bok choy, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2685578,
+    "description": "Tomatoes, whole, canned, solids and liquids, with salt added",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2685581,
+    "description": "Tomatoes, crushed, canned",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2710820,
+    "description": "Bulgur, dry, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2710826,
+    "description": "Corn, sweet, yellow and white kernels, \u00a0fresh, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2727569,
+    "description": "Chicken, breast, meat and skin, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "foundation",
+    "fdcId": 2727583,
+    "description": "Cabbage, napa, leaf, destemmed, raw",
+    "portionCount": 1,
+    "file": "nutrition/foundation-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 167640,
+    "description": "Blueberries, wild, raw (Alaska Native)",
+    "portionCount": 0,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 167705,
+    "description": "Cheese, parmesan, low sodium",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 167735,
+    "description": "Cheese, mozzarella, low sodium",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 167746,
+    "description": "Lemons, raw, without peel",
+    "portionCount": 5,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 167762,
+    "description": "Strawberries, raw",
+    "portionCount": 10,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 167939,
+    "description": "Garlic bread, frozen",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168155,
+    "description": "Limes, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168158,
+    "description": "Blueberries, dried, sweetened",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168164,
+    "description": "Raisins, golden, seedless",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168165,
+    "description": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 6,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168166,
+    "description": "Raisins, seeded",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168172,
+    "description": "Strawberries, canned, heavy syrup pack, solids and liquids",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168174,
+    "description": "Strawberries, frozen, sweetened, sliced",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168405,
+    "description": "Cowpeas, young pods with seeds, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168421,
+    "description": "Kale, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168462,
+    "description": "Spinach, raw",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168463,
+    "description": "Spinach, cooked, boiled, drained, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168482,
+    "description": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168538,
+    "description": "Corn, sweet, white, raw",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168539,
+    "description": "Corn, sweet, white, cooked, boiled, drained, without salt",
+    "portionCount": 5,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168568,
+    "description": "Carrots, baby, raw",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168874,
+    "description": "Quinoa, uncooked",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168875,
+    "description": "Rice, brown, medium-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168879,
+    "description": "Rice, white, medium-grain, raw, enriched",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168896,
+    "description": "Wheat flour, white, bread, enriched",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168910,
+    "description": "Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 8,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168913,
+    "description": "Wheat flours, bread, unenriched",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168917,
+    "description": "Quinoa, cooked",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 168931,
+    "description": "Rice, white, short-grain, raw, unenriched",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169051,
+    "description": "Cheese, mozzarella, nonfat",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169098,
+    "description": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169099,
+    "description": "Orange juice, canned, unsweetened",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169100,
+    "description": "Orange juice, chilled, includes from concentrate",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169213,
+    "description": "Beans, kidney, mature seeds, sprouted, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169224,
+    "description": "Cowpeas, leafy tips, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169230,
+    "description": "Garlic, raw",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169238,
+    "description": "Kale, cooked, boiled, drained, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169240,
+    "description": "Kale, frozen, cooked, boiled, drained, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169251,
+    "description": "Mushrooms, white, raw",
+    "portionCount": 7,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169252,
+    "description": "Mushrooms, white, cooked, boiled, drained, without salt",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169253,
+    "description": "Mushrooms, white, stir-fried",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169288,
+    "description": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169289,
+    "description": "Squash, summer, scallop, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169291,
+    "description": "Squash, summer, zucchini, includes skin, raw",
+    "portionCount": 6,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169303,
+    "description": "Sweet potato leaves, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169307,
+    "description": "Sweet potato, frozen, cooked, baked, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169329,
+    "description": "Broccoli, leaves, raw",
+    "portionCount": 0,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169342,
+    "description": "Celery, cooked, boiled, drained, with salt",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169343,
+    "description": "Chard, swiss, cooked, boiled, drained, with salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169383,
+    "description": "Peppers, sweet, yellow, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169703,
+    "description": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169704,
+    "description": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169705,
+    "description": "Oats (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169706,
+    "description": "Rice, brown, medium-grain, raw (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169723,
+    "description": "Wheat flour, white, cake, enriched",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169738,
+    "description": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 7,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169760,
+    "description": "Rice, white, medium-grain, raw, unenriched",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169975,
+    "description": "Cabbage, raw",
+    "portionCount": 8,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169977,
+    "description": "Cabbage, red, raw",
+    "portionCount": 6,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169988,
+    "description": "Celery, raw",
+    "portionCount": 7,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169989,
+    "description": "Celery, cooked, boiled, drained, without salt",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169991,
+    "description": "Chard, swiss, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169997,
+    "description": "Coriander (cilantro) leaves, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 169998,
+    "description": "Corn, sweet, yellow, raw",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170000,
+    "description": "Onions, raw",
+    "portionCount": 10,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170007,
+    "description": "Onions, welsh, raw",
+    "portionCount": 0,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170008,
+    "description": "Onions, sweet, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170086,
+    "description": "Beans, pinto, mature seeds, sprouted, raw",
+    "portionCount": 0,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170096,
+    "description": "Tomatoes, yellow, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170108,
+    "description": "Peppers, sweet, red, raw",
+    "portionCount": 7,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170284,
+    "description": "Barley, pearled, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170285,
+    "description": "Barley, pearled, cooked",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170287,
+    "description": "Bulgur, cooked",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170379,
+    "description": "Broccoli, raw",
+    "portionCount": 6,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170381,
+    "description": "Broccoli raab, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170388,
+    "description": "Cabbage, savoy, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170393,
+    "description": "Carrots, raw",
+    "portionCount": 9,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170394,
+    "description": "Carrots, cooked, boiled, drained, without salt",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170401,
+    "description": "Chard, swiss, cooked, boiled, drained, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170416,
+    "description": "Parsley, fresh",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170419,
+    "description": "Peas, green, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170420,
+    "description": "Peas, green, cooked, boiled, drained, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170427,
+    "description": "Peppers, sweet, green, raw",
+    "portionCount": 8,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170456,
+    "description": "Tomatoes, green, raw",
+    "portionCount": 5,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170486,
+    "description": "Parsley, freeze-dried",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170487,
+    "description": "Squash, summer, all varieties, raw",
+    "portionCount": 5,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170502,
+    "description": "Tomatoes, orange, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170688,
+    "description": "Bulgur, dry",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170845,
+    "description": "Cheese, mozzarella, whole milk",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170848,
+    "description": "Cheese, parmesan, hard",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170886,
+    "description": "Yogurt, plain, low fat",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170887,
+    "description": "Yogurt, plain, skim milk",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170894,
+    "description": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170899,
+    "description": "Cheese, cheddar, sharp, sliced",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170923,
+    "description": "Spices, cumin seed",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170931,
+    "description": "Spices, pepper, black",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170932,
+    "description": "Spices, pepper, red or cayenne",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 170933,
+    "description": "Spices, pepper, white",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171247,
+    "description": "Cheese, parmesan, grated",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171265,
+    "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171267,
+    "description": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171269,
+    "description": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171284,
+    "description": "Yogurt, plain, whole milk",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171287,
+    "description": "Egg, whole, raw, fresh",
+    "portionCount": 6,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171295,
+    "description": "Cheese, cheddar, nonfat or fat free",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171304,
+    "description": "Yogurt, Greek, plain, whole milk",
+    "portionCount": 0,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171317,
+    "description": "Spices, basil, dried",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171323,
+    "description": "Spices, fennel seed",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171329,
+    "description": "Spices, paprika",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171413,
+    "description": "Oil, olive, salad or cooking",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171477,
+    "description": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171478,
+    "description": "Chicken, broilers or fryers, breast, meat only, cooked, stewed",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 171711,
+    "description": "Blueberries, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172240,
+    "description": "Vinegar, red wine",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172336,
+    "description": "Oil, canola",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172420,
+    "description": "Lentils, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172421,
+    "description": "Lentils, mature seeds, cooked, boiled, without salt",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172428,
+    "description": "Peas, green, split, mature seeds, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172475,
+    "description": "Tofu, raw, firm, prepared with calcium sulfate",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172476,
+    "description": "Tofu, raw, regular, prepared with calcium sulfate",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 172688,
+    "description": "Bread, whole-wheat, commercially prepared",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173414,
+    "description": "Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 6,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173420,
+    "description": "Cheese, feta",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173423,
+    "description": "Egg, whole, cooked, fried",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173424,
+    "description": "Egg, whole, cooked, hard-boiled",
+    "portionCount": 3,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173468,
+    "description": "Salt, table",
+    "portionCount": 4,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173734,
+    "description": "Beans, black, mature seeds, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173735,
+    "description": "Beans, black, mature seeds, cooked, boiled, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173744,
+    "description": "Beans, kidney, red, mature seeds, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173756,
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173757,
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173800,
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173801,
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 173944,
+    "description": "Bananas, raw",
+    "portionCount": 8,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 174284,
+    "description": "Lentils, pink or red, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 174290,
+    "description": "Tofu, extra firm, prepared with nigari",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175186,
+    "description": "Beans, black turtle, mature seeds, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175193,
+    "description": "Beans, kidney, all types, mature seeds, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175199,
+    "description": "Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program)",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175200,
+    "description": "Beans, pinto, mature seeds, cooked, boiled, without salt",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175208,
+    "description": "Cowpeas, catjang, mature seeds, raw",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175250,
+    "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium",
+    "portionCount": 2,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "sr-legacy",
+    "fdcId": 175254,
+    "description": "Lentils, mature seeds, cooked, boiled, with salt",
+    "portionCount": 1,
+    "file": "nutrition/sr-legacy-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705385,
+    "description": "Milk, whole",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705386,
+    "description": "Milk, reduced fat (2%)",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705387,
+    "description": "Milk, low fat (1%)",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705388,
+    "description": "Milk, fat free (skim)",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705953,
+    "description": "Chicken breast, NS as to cooking method, skin eaten",
+    "portionCount": 8,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705954,
+    "description": "Chicken breast, NS as to cooking method, skin not eaten",
+    "portionCount": 8,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2705955,
+    "description": "Chicken breast, baked, broiled, or roasted, skin eaten, from raw",
+    "portionCount": 10,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707152,
+    "description": "Egg, whole, raw",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707154,
+    "description": "Egg, whole, boiled or poached",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707416,
+    "description": "Chickpeas, from dried, no added fat",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707418,
+    "description": "Chickpeas, from canned, no added fat",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707419,
+    "description": "Chickpeas, from canned, reduced sodium",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707425,
+    "description": "Lentils, from dried, no added fat",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707426,
+    "description": "Lentils, from canned",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707709,
+    "description": "Bread, whole wheat",
+    "portionCount": 7,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2707710,
+    "description": "Bread, whole wheat, toasted",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708358,
+    "description": "Pasta, whole grain, cooked",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708361,
+    "description": "Barley",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708381,
+    "description": "Oatmeal, regular or quick, made with water, no added fat",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708383,
+    "description": "Oatmeal, regular or quick, made with milk, no added fat",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708400,
+    "description": "Quinoa, no added fat",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708414,
+    "description": "Rice, brown, cooked, no added fat",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708427,
+    "description": "Rice, brown and wild, cooked, no added fat",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708438,
+    "description": "Bulgur, no added fat",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2708489,
+    "description": "Oats, raw",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709180,
+    "description": "Lemon juice, 100%, NS as to form",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709181,
+    "description": "Lemon juice, 100%, freshly squeezed",
+    "portionCount": 8,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709182,
+    "description": "Lemon juice, 100%, canned or bottled",
+    "portionCount": 7,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709183,
+    "description": "Lime juice, 100%, NS as to form",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709184,
+    "description": "Lime juice, 100%, freshly squeezed",
+    "portionCount": 8,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709185,
+    "description": "Lime juice, 100%, canned or bottled",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709224,
+    "description": "Banana, raw",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709275,
+    "description": "Blueberries, raw",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709283,
+    "description": "Strawberries, raw",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709599,
+    "description": "Kale, raw",
+    "portionCount": 5,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709614,
+    "description": "Spinach, raw",
+    "portionCount": 5,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709643,
+    "description": "Broccoli, raw",
+    "portionCount": 4,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709660,
+    "description": "Carrots, raw",
+    "portionCount": 7,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709661,
+    "description": "Carrots, raw, salad",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709662,
+    "description": "Carrots, raw, salad with apples",
+    "portionCount": 2,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709719,
+    "description": "Tomatoes, raw",
+    "portionCount": 8,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709778,
+    "description": "Celery, raw",
+    "portionCount": 5,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709784,
+    "description": "Cucumber, raw",
+    "portionCount": 6,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2709795,
+    "description": "Onions, raw",
+    "portionCount": 5,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2710186,
+    "description": "Olive oil",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  },
+  {
+    "source": "fndds",
+    "fdcId": 2710188,
+    "description": "Canola oil",
+    "portionCount": 3,
+    "file": "nutrition/fndds-subset.json"
+  }
+]

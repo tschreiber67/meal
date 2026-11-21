@@ -1,0 +1,121 @@
+OFFLINE SOURCE DATA
+Retrieved October 24, 2026.
+
+This folder contains reference inputs, not an implemented importer. The current
+application reads only data/foods.json and data/recipes.json. Those remain
+fictional examples. NUTRITION_REQUIREMENTS.txt still defines the next bounded
+backend change using its existing fixtures. These sources do not expand that
+change or alter its expected values.
+
+NUTRITION AND PORTION WEIGHTS
+
+USDA FoodData Central, Agricultural Research Service.
+https://fdc.nal.usda.gov/download-datasets/
+
+nutrition/foundation-subset.json: 66 food records, 79 portion entries.
+Release: April 2026. Root array: FoundationFoods.
+nutrition/sr-legacy-subset.json: 143 food records, 377 portion entries.
+Release: April 2018, final SR Legacy release. Root array: SRLegacyFoods.
+nutrition/fndds-subset.json: 46 food records, 220 portion entries.
+FNDDS 2021-2023, released October 2024. Root array: SurveyFoods.
+nutrition/food-index.json: searchable names, source sets, IDs, portion counts.
+
+The 255 records include multiple preparations of some foods, not 255 unique
+ingredients. Source food objects are retained intact. Exact IDs and original
+archive hashes are in source-manifest.json. These are selected common foods,
+not exhaustive coverage of every ingredient in every recipe. The Foundation
+archive contains 32 null entries; these are excluded, not converted to foods.
+
+foodNutrients preserves nutrient IDs, names, units, amounts and source metadata.
+foodPortions preserves measure descriptions and gram weights where available.
+Not every food has a portion entry or every nutrient. Household portion weights
+are reference measurements, not recommended dietary serving sizes.
+Read documentation/fdc-download-field-descriptions.pdf for field definitions.
+
+Keep raw/cooked, drained/undrained, added salt and nutrient units distinct.
+Multiple energy measures and nutrient definitions can occur in the source.
+No nutrient-selection policy, ingredient crosswalk, missing-value imputation,
+or raw-to-cooked conversion is implemented by this source bundle.
+
+RECIPES
+
+USDA, Recipes for Healthy Kids: Cookbook for Homes.
+https://www.fna.usda.gov/tn/recipes-healthy-kids-cookbook-homes
+
+recipes/ contains eight ASCII text excerpts and an index with original PDF
+URLs, source-file hashes and page numbers. Each excerpt contains ingredients,
+directions, preparation/cooking times, yield and published nutrients per
+serving. Original quantities and recipe wording are retained; fractional
+characters are written as 1/2, 1/3, 1/4, etc. Recipe quantities were checked
+against the rendered original pages. School stories, photos and food-group
+credit sections are omitted. This keeps the archive small and focused.
+
+Chic' Penne
+Mediterranean Quinoa Salad
+Oodles of Noodles
+Rainbow Rice
+Sweet Potato and Black Bean Stew
+Lentils of the Southwest
+Confetti Soup
+Spanish Chickpea Stew
+
+All eight source recipes yield six servings, but a serving's volume varies.
+The recipe texts are reference documents, not the current app's recipe schema.
+Source nutrition figures are published estimates, not new calculations or
+acceptance-test expected values. They must not replace the mock fixture goldens.
+The current app's eight recipes remain separately labeled illustrative recipes.
+
+PRICES
+
+USDA Economic Research Service, Fruit and Vegetable Prices.
+https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices
+
+prices/ers-fruits-2023.csv: 62 product/form rows.
+prices/ers-vegetables-2023.csv: 93 product/form rows.
+These are 2023 estimates, posted December 9, 2025. Original CSV bytes retained,
+including UTF-8 BOM, units and source preparation-yield factors. Retail values
+use the source's pound/pint units; edible-cup prices have their own columns.
+These are national estimates, not local store quotes. ERS says these tables
+are not suitable for comparing price changes across years.
+
+US Bureau of Labor Statistics, Average Price Data, food series.
+https://download.bls.gov/pub/time.series/ap/
+
+prices/bls-food-monthly-2024-2026.tsv: 6,396 monthly observations across
+343 area/item series. January 2024 through September 2026 where published.
+Areas: U.S. city average, Northeast, Midwest, South and West.
+Some series have gaps or ended earlier. No values have been filled in.
+M13 annual averages are excluded. These are prices, not CPI index values.
+Join series_id to bls-series.tsv for the item, area and unit description.
+bls-item.tsv, bls-area.tsv and bls-footnote.tsv are original lookup files.
+documentation/bls-format.txt is the original BLS file-format description.
+Observation and series TSV fields have surrounding whitespace removed.
+
+USDA Economic Research Service, Purchase to Plate National Average Prices
+from the Purchase to Plate Suite (2023 data product).
+https://www.ers.usda.gov/data-products/purchase-to-plate
+
+prices/ppnap-2017-2018.csv: all 4,435 records in the latest public cycle,
+2017/2018. Values are nominal dollars per 100 edible grams, as consumed.
+This is historical broad coverage, not current retail package pricing.
+CSV was transcoded from Windows-1252 to UTF-8 without changing field values.
+documentation/ppnap-source-readme.txt explains source fields and methodology.
+Only public National Average Prices data is included. Restricted crosswalk,
+price-tool and ingredient-tool datasets are not included.
+
+Food codes are source identifiers. FNDDS and PP-NAP refer to different release
+years; matching names or codes is not proof of a valid cross-release match.
+The bundle supplies no food-to-price crosswalk and no inflation adjustment.
+
+Price estimates differ in year, geography and purchase/edible basis. Retain
+these distinctions. No package-size rounding, yield conversion, pantry logic,
+budget optimizer or automatic recipe conversion is included here.
+
+PROVENANCE AND REUSE
+
+source-manifest.json records source URLs, download dates, hashes, selected
+IDs, transformations and bundled paths. checksums.sha256 records local file
+integrity. THIRD_PARTY_NOTICES.txt identifies attribution and reuse statements.
+No API key, OAuth account, npm package or internet access is needed to read
+these bundled files. Original bulk archives and recipe photo PDFs are omitted
+to reduce upload size; selected source records and recipe text are included.

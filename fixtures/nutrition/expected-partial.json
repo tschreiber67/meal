@@ -1,0 +1,83 @@
+{
+  "planFile": "fixtures/nutrition/plan-partial.json",
+  "mealAmounts": [
+    {
+      "entryId": "meal-1",
+      "amounts": {
+        "energy_kcal": 200,
+        "protein_g": 16.5,
+        "carbohydrate_g": 30,
+        "fat_g": 0,
+        "fiber_g": 5,
+        "sodium_mg": 76,
+        "calcium_mg": 175,
+        "iron_mg": 0.7,
+        "vitamin_c_mg": 20,
+        "vitamin_d_ug": 0
+      }
+    },
+    {
+      "entryId": "meal-2",
+      "amounts": {
+        "energy_kcal": 340,
+        "protein_g": 10,
+        "carbohydrate_g": 55,
+        "fat_g": 6,
+        "fiber_g": 8,
+        "sodium_mg": 42,
+        "calcium_mg": 130,
+        "iron_mg": 2.3,
+        "vitamin_c_mg": 10,
+        "vitamin_d_ug": 1
+      }
+    }
+  ],
+  "dayAmounts": [
+    {
+      "date": "2026-10-26",
+      "amounts": {
+        "energy_kcal": 540,
+        "protein_g": 26.5,
+        "carbohydrate_g": 85,
+        "fat_g": 6,
+        "fiber_g": 13,
+        "sodium_mg": 118,
+        "calcium_mg": 305,
+        "iron_mg": 3,
+        "vitamin_c_mg": 30,
+        "vitamin_d_ug": 1
+      }
+    }
+  ],
+  "totalAmounts": {
+    "energy_kcal": 540,
+    "protein_g": 26.5,
+    "carbohydrate_g": 85,
+    "fat_g": 6,
+    "fiber_g": 13,
+    "sodium_mg": 118,
+    "calcium_mg": 305,
+    "iron_mg": 3,
+    "vitamin_c_mg": 30,
+    "vitamin_d_ug": 1
+  },
+  "incompleteNutrients": {
+    "meal-1": {
+      "vitamin_d_ug": [
+        "yogurt"
+      ]
+    },
+    "meal-2": {},
+    "2026-10-26": {
+      "vitamin_d_ug": [
+        "yogurt"
+      ]
+    },
+    "total": {
+      "vitamin_d_ug": [
+        "yogurt"
+      ]
+    }
+  },
+  "note": "Vitamin D amounts are KNOWN subtotals, not a claim that missing yogurt vitamin D is zero."
+}
